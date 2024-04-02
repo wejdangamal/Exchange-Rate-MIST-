@@ -1,0 +1,56 @@
+﻿@model List<OutData>
+@{
+    ViewData["Title"] = "Home Page";
+}
+<link href="~/css/tabledesign.css" rel="stylesheet" />
+<div class="text-center container-fluid">
+    <h1 class="display-3 mb-4">Exchange Rates</h1>
+    <div class="row">
+        <div class="div-container p-0 col-9">
+            <table class="table">
+                <thead class="bg-dark" id="fixed">
+                    <tr class="table-dark">
+                        <th scope="col">Currency</th>
+                        <th scope="col">rate</th>
+                        <th scope="col">Add to favourite</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @for (int i = 0; i < Model.Count; i++)
+                    {
+                        <tr>
+                            <td>@Model[i].Currency</td>
+                            <td id="rate">@Model[i].Rate</td>
+                            <td id="addToFav">
+                                <button class="btn" onclick="addToFav('@Model[i].Currency','@Model[i].Rate')">
+                                    <i id="star_@Model[i].Currency" class="bi bi-star" style="color:gold;"></i>
+                                </button>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            </div>
+
+        <div class="col-3">
+            <h4 class="bg-dark p-3 my-0">Favourite List <i class="bi bi-star-fill" style="color:gold;"></i></h4>
+            <div id="favDiv">
+                <table id="add" class="table">
+                    <thead>
+                        <tr class="table-dark">
+                            <th scope="col">Currency</th>
+                            <th scope="col">rate</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+@section Scripts{
+    <script src="~/js/indexscript.js"></script>
+}

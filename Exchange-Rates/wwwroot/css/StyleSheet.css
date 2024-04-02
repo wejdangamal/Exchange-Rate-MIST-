@@ -1,0 +1,12 @@
+﻿.box{
+    box-shadow: 0px 10px 20px 5px rgba(0, 0, 0, 0.5);
+    transform: translateY(-5px);
+    border-radius:8px
+}
+.btn:focus {
+    box-shadow: none;
+    outline: none;
+}
+.form-label{
+    font-weight:bold
+}
