@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rkwvg82uJLmy3YdRNmxsgizGmH5zeBB6r4JXUKm6SceykMoPhtBGAV+2f0x4LQfrQwZ4MQgI9DFltviKZ6G2Vw==",
+  "success": true,
+  "projectFilePath": "D:\\MIST\\Exchange-Rates\\Exchange-Rates.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wegdan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
