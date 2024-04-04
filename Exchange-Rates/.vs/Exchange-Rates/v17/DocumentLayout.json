@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\MIST\\Exchange-Rates\\",
+  "WorkspaceRootPath": "C:\\Users\\Wegdan\\source\\repos\\Exchange-Rate-MIST-\\Exchange-Rates\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3128A20D-A449-4821-917E-E156CA14FDEF}|Exchange-Rates.csproj|d:\\mist\\exchange-rates\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3128A20D-A449-4821-917E-E156CA14FDEF}|Exchange-Rates.csproj|c:\\users\\wegdan\\source\\repos\\exchange-rate-mist-\\exchange-rates\\views\\conversion\\conversion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3128A20D-A449-4821-917E-E156CA14FDEF}|Exchange-Rates.csproj|solutionrelative:views\\conversion\\conversion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3128A20D-A449-4821-917E-E156CA14FDEF}|Exchange-Rates.csproj|c:\\users\\wegdan\\source\\repos\\exchange-rate-mist-\\exchange-rates\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3128A20D-A449-4821-917E-E156CA14FDEF}|Exchange-Rates.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3128A20D-A449-4821-917E-E156CA14FDEF}|Exchange-Rates.csproj|d:\\mist\\exchange-rates\\service\\consuming.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3128A20D-A449-4821-917E-E156CA14FDEF}|Exchange-Rates.csproj|c:\\users\\wegdan\\source\\repos\\exchange-rate-mist-\\exchange-rates\\service\\consuming.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3128A20D-A449-4821-917E-E156CA14FDEF}|Exchange-Rates.csproj|solutionrelative:service\\consuming.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3128A20D-A449-4821-917E-E156CA14FDEF}|Exchange-Rates.csproj|d:\\mist\\exchange-rates\\service\\iconsuming.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3128A20D-A449-4821-917E-E156CA14FDEF}|Exchange-Rates.csproj|c:\\users\\wegdan\\source\\repos\\exchange-rate-mist-\\exchange-rates\\service\\iconsuming.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3128A20D-A449-4821-917E-E156CA14FDEF}|Exchange-Rates.csproj|solutionrelative:service\\iconsuming.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -35,41 +39,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Conversion.cshtml",
+              "DocumentMoniker": "C:\\Users\\Wegdan\\source\\repos\\Exchange-Rate-MIST-\\Exchange-Rates\\Views\\Conversion\\Conversion.cshtml",
+              "RelativeDocumentMoniker": "Views\\Conversion\\Conversion.cshtml",
+              "ToolTip": "C:\\Users\\Wegdan\\source\\repos\\Exchange-Rate-MIST-\\Exchange-Rates\\Views\\Conversion\\Conversion.cshtml",
+              "RelativeToolTip": "Views\\Conversion\\Conversion.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T01:23:47.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\MIST\\Exchange-Rates\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Wegdan\\source\\repos\\Exchange-Rate-MIST-\\Exchange-Rates\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "D:\\MIST\\Exchange-Rates\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Wegdan\\source\\repos\\Exchange-Rate-MIST-\\Exchange-Rates\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-02T15:20:42.842Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Consuming.cs",
-              "DocumentMoniker": "D:\\MIST\\Exchange-Rates\\Service\\Consuming.cs",
+              "DocumentMoniker": "C:\\Users\\Wegdan\\source\\repos\\Exchange-Rate-MIST-\\Exchange-Rates\\Service\\Consuming.cs",
               "RelativeDocumentMoniker": "Service\\Consuming.cs",
-              "ToolTip": "D:\\MIST\\Exchange-Rates\\Service\\Consuming.cs",
+              "ToolTip": "C:\\Users\\Wegdan\\source\\repos\\Exchange-Rate-MIST-\\Exchange-Rates\\Service\\Consuming.cs",
               "RelativeToolTip": "Service\\Consuming.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAQwCoAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T15:19:40.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-02T15:19:40.361Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IConsuming.cs",
-              "DocumentMoniker": "D:\\MIST\\Exchange-Rates\\Service\\IConsuming.cs",
+              "DocumentMoniker": "C:\\Users\\Wegdan\\source\\repos\\Exchange-Rate-MIST-\\Exchange-Rates\\Service\\IConsuming.cs",
               "RelativeDocumentMoniker": "Service\\IConsuming.cs",
-              "ToolTip": "D:\\MIST\\Exchange-Rates\\Service\\IConsuming.cs",
+              "ToolTip": "C:\\Users\\Wegdan\\source\\repos\\Exchange-Rate-MIST-\\Exchange-Rates\\Service\\IConsuming.cs",
               "RelativeToolTip": "Service\\IConsuming.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T15:17:08.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-02T15:17:08.025Z"
             }
           ]
         },

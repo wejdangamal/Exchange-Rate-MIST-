@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Exchange-Rates",
+    "\\Exchange-Rates\\Controllers",
+    "\\Exchange-Rates\\Views",
+    "\\Exchange-Rates\\Views\\Conversion"
   ],
-  "SelectedNode": "\\C:\\Users\\Wegdan\\Source\\Repos\\Exchange-Rate-MIST-",
+  "SelectedNode": "\\Exchange-Rates\\Exchange-Rates.sln",
   "PreviewInSolutionExplorer": false
 }

@@ -18,11 +18,7 @@ namespace Exchange_Rates.Controllers
         public async Task<IActionResult> GetConversion()
         {
            var list = await ExchangeRatesBag();
-            ViewBag.fromCurrencyBag = list;
-            var list2 = await ExchangeRatesBag(); 
-            list2[4].Selected = true;
-            ViewBag.toCurrencyBag = list2;
-
+            ViewBag.CurrencyBag = list;
             return View("Conversion");
         }
         private async Task<List<SelectListItem>> ExchangeRatesBag()
